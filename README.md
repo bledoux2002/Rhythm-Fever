@@ -11,4 +11,4 @@
 
 ## Deployment
 
-To deploy this project, add the project to the Unity Hub and open and build/run from the Unity editor. Built on Unity 2020.3.25f1.
+To deploy this project, add the project to the Unity Hub and build/run from the Unity editor. Built on Unity 2020.3.25f1.
